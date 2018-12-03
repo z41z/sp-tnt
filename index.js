@@ -1,6 +1,6 @@
-const tntRadius = require('./calcRadius')
-const tntWeight = require('./calcTNT')
-const tntPower = require('./calcPower')
+const tntRadius = require('./src/calcRadius')
+const tntWeight = require('./src/calcTNT')
+const tntPower = require('./src/calcPower')
 
 module.exports.default = module.exports = {
   tntRadius,

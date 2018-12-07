@@ -1,3 +1,8 @@
+/**
+ * 
+ * @param {Number} tntWeight 
+ */
+
 let radius = (tntWeight) => {
   // 环境压强 P0 = 101300
   // 重伤：P1 = 0.4344 z=1.089057440443465

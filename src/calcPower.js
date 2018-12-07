@@ -1,3 +1,9 @@
+/**
+ * 
+ * @param {Number} weight 
+ * @param {Boolean} isTransTNT 
+ */
+
 let power = (weight, isTransTNT = true) => {
   if (isTransTNT) {
     return weight * 1.8 * 4520 * 0.04;

@@ -1,6 +1,6 @@
 {
   "name": "sp-tnt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "TNT radius calc",
   "main": "index.js",
   "scripts": {
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/z41z/sp-tnt/issues"
   },
-  "homepage": "https://github.com/z41z/sp-tnt#readme"
+  "homepage": "https://github.com/z41z/sp-tnt#readme",
+  "dependencies": {
+    "sp-math": "^1.0.0"
+  }
 }
